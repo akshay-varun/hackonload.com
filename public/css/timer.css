@@ -1,0 +1,32 @@
+body {
+    background-color: var(--theme-color-dark);
+    text-align: center;
+    color: var(--theme-white);
+}
+
+.timer-logo {
+    width: 500px;
+    height: auto;
+}
+
+.timer-screen {
+    display: none;
+    color: var(--theme-white);
+}
+
+#timer-title {
+    color: var(--theme-white);
+    font-family: var(--font-heading);
+    font-size: 70px;
+}
+
+#countdown {
+    font-size: 130px;
+    color: var(--theme-white);
+}
+
+.mascot-canvas {
+    width: 308px;
+    height: 308px;
+    padding: 0;
+}
